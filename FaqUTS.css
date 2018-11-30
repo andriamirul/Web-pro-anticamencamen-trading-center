@@ -1,0 +1,16 @@
+#metode{
+	width: 80px;
+}
+#FAQ{
+	width: 100%;
+}
+#new-board-btn{
+	white-space: normal;
+	word-wrap: break-word;
+}
+.img-responsive{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+

@@ -1,0 +1,41 @@
+
+    [
+        {
+            "no":"01",
+            "namabarang":"Jari T-Rex",
+            "Harga":"Rp.3000",
+            "qty":"2",
+            "total":"6000"
+        },
+        {
+            "no":"02",
+            "namabarang":"Boneka T-Rex",
+            "Harga":"Rp.45000",
+            "qty":"1",
+            "total":"45000"
+        },
+        {
+            "no":"03",
+            "namabarang":"T-rex Drinking Cup",
+            "Harga":"Rp.35000",
+            "qty":"1",
+            "total":"35000"
+        },
+        {
+            "no":"04",
+            "namabarang":"T-rex Toy",
+            "Harga":"Rp.80000",
+            "qty":"2",
+            "total":"160000"
+        },
+        {
+            "no":"05",
+            "namabarang":"Cool T-rex T-Shirt",
+            "Harga":"Rp.250000",
+            "qty":"1",
+            "total":"250000"
+        }
+        
+        
+    ]
+     

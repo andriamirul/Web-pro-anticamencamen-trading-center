@@ -1,0 +1,63 @@
+aditya standley christianto / 1301160138
+
+1. display catalog
+menampilkan data barang menjadi catalog, data diambil dari database, bila ingin
+membeli barang click tomblol + dibawah setiap item untuk melihat detail lebih lanjut dan
+jumlah serta tujuan pengiriman
+
+2. masukKeranjang
+memasukan item yang akan dibeli kedalam database keranjang yang nantinya akan ditampilkan
+di halaman keranjang
+
+3. displayKeranjang
+menampilkan item yang ada di database keranjang
+
+
+Johan Antonius Salim / 1301164150
+1. Display KeranjangBelanja.php
+Menampilkan barang yang sudah dibeli ke Keranjang Belanja, menampilkan kode barang, nama barang. harga satuan,
+qty, harga total, dan Total pembayaran
+
+2. del.php
+fungsi di tombol delete yang ada di Keranjang Belanja yang berguna untuk menghapus barang 
+di keranjang sesuai keinginan kita
+
+3. confirm.php
+fungsi di tombol confirm yang ada di Keranjang Belanja yang berguna untuk mengonfirmasi barang 
+yang sudah ada di keranjang belanja
+jika data barang ada maka barang bisa di konfirmasi
+jika keranjang belanja kosong, maka akan ada alert "keranjang belanja kosong"
+
+M Jehan Mahsan / 1301160441
+1.Pada halaman Sign up (SignupUTS.php)
+user dapat mendaftar untuk menjadi anggota, fungsi signup terdapat
+pada (function.php) yang bernama tambahdata()
+
+2.Pada halaman Login (loginUTS.php)
+user dapat melakukan login apabila sudah mendaftar sebelumnya. 
+untuk masuk kedalam halaman admin (username:admin , pass:admin)
+fungsi login terdapat pada (function.php) yang bernama login()
+
+3.Pada halaman forget password (forgetpass.php), user dapat 
+menginputkan username yang telah terdaftar. password akan diset
+menjadi '123456' apabila melakukan forgetpass
+fungsi forget password terdapat pada (function.php) yang bernama 
+forgetpass()
+
+4.pada halaman Admin (AdminUTS.php) admin dapat melihat, mengedit
+atau mendelete user. fungsi nya terdapat pada (function.php)
+yang bernama edt($conn), dan del($conn)
+
+Andri Amirul S/ 1301164234
+fungsitambahbarang.php :
+function tambahbarang => berfungsi untuk menambahkan barang ke tabel addbarang
+
+addbarang.php:
+function readURL => berfungsi untuk menampilkan gambar yang akan diupload
+
+functioneditbarang.php:
+function edt => berfungsi untuk mengedit nama,harga,stock,deskripsi dari suatu barang dari tabel addbarang
+function del => berfungsi untuk mendelete sebuah barang dari tabel addbarang
+
+editbarang.php:
+datatable =>berfungsi untuk meload barang yang ada di tabel addbarang

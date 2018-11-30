@@ -1,0 +1,18 @@
+body {
+	background-image: url("background/bg1.jpg");
+}
+.baju1 {
+	width: 50%;
+	margin: 30px 150px;
+}
+.baju2 {
+	text-align: center;
+}
+#button1 {
+	background-image: url("trolley.jpg");
+}
+#bajjjj {
+	margin-top: 20px;
+	background-color: white;
+	box-shadow: 2px 2px 4px #000000;
+}

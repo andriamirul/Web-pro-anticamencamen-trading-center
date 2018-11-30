@@ -1,0 +1,14 @@
+		body{
+			font-family: arial;
+		}
+		.thead{
+			background-color : grey;
+		}
+		
+		#confirm{
+			float: right;
+			margin-right: 10px;		
+		}
+		#cancel{
+			float: right;		
+		}
